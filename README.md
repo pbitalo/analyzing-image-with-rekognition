@@ -30,7 +30,7 @@ After successful clone project, you run:
 
 ```bash
 npm i
-sls invoke local -f img-analysis
+sls invoke local -f img-analysis or npm run invoke-local
 ```
 
 Which should result in response similar to the following:
@@ -39,8 +39,8 @@ Which should result in response similar to the following:
 {
   "statusCode": 200,
   "body": {
-    "oqueE": [],
-    "textoExtraido": ""
+    "labels": [],
+    "extractText": ""
   }
 }
 ```

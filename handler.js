@@ -73,8 +73,8 @@ class Handler {
     return {
       statusCode: 200,
       body: {
-        oQueE: labels,
-        textoExtraido: getText,
+        labels: labels,
+        extractText: getText,
       },
     };
   }
