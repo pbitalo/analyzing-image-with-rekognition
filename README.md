@@ -53,6 +53,12 @@ Which should result in response similar to the following:
 
 ## Prediction Result
 
+### Image
+
+<p align="center">
+  <img src="imgs/cat2.jpeg" alt="Cat image"/>
+</p>
+
 <p align="center">
   <img src="imgs/result.png" alt="Prediction result"/>
 </p>
