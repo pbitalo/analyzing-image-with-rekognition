@@ -10,6 +10,14 @@ authorLink: 'https://github.com/pbitalo/analyzing-image-with-rekognition'
 authorName: 'Ítalo Pereira de Brito'
 -->
 
+# Title
+
+Analyzing image with AWS Rekognition
+
+## Description
+
+In this example, we are going to extract data from a document or identify an object.
+
 ## Requirement
 
 npm
