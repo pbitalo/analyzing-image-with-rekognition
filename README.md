@@ -62,3 +62,7 @@ Which should result in response similar to the following:
 <p align="center">
   <img src="imgs/result.png" alt="Prediction result"/>
 </p>
+
+## License
+
+MIT License
