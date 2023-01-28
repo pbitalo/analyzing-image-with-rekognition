@@ -27,7 +27,7 @@ In this example, we are going to extract data from a document or identify an obj
 ## Icon
 
 <p align="center">
-  <img src="imgs/rekognition.png" alt="Architecture diagram"/>
+  <img src="imgs/rekognition.png" alt="Rekognition icon"/>
 </p>
 
 ### Invocation
@@ -50,3 +50,9 @@ Which should result in response similar to the following:
   }
 }
 ```
+
+## Prediction Result
+
+<p align="center">
+  <img src="imgs/result.png" alt="Prediction result"/>
+</p>
