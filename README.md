@@ -18,11 +18,17 @@ Analyzing image with AWS Rekognition
 
 In this example, we are going to extract data from a document or identify an object.
 
-## Requirement
+## Requirements
 
-npm
-serverless offline
-nodeJs
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [Node.js 14](https://nodejs.org/)
+- [Serverless Framework’s](https://www.serverless.com/framework/docs/getting-started)
+
+## Icon
+
+<p align="center">
+  <img src="imgs/rekognition.png" alt="Architecture diagram"/>
+</p>
 
 ### Invocation
 
